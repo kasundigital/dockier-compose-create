@@ -1,4 +1,4 @@
-Docker Compose Configuration Generator
+*Docker Compose Configuration Generator*
 This repository contains scripts and utilities for managing Docker configurations, automating the generation of docker-compose.yml files, and streamlining the backup and restoration of Docker containers, images, and volumes.
 
 Features
