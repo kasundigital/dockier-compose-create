@@ -92,7 +92,6 @@ This project is licensed under the MIT License.
 Contact
 For questions or support, please reach out to:
 
-Email: 
 GitHub: Kasun Digital
 LinkedIn: Kasun Indika
 
